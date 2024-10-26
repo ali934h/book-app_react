@@ -1,4 +1,4 @@
-const BASE_URL = "https://storage.alihosseini.dev/book_app/images/";
+const BASE_URL = "/src/assets/imgs/books/";
 const imgUrl = (name) => BASE_URL.concat(name).concat(".jpg");
 
 const data = [
