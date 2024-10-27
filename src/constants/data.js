@@ -1,4 +1,4 @@
-const BASE_URL = "/src/assets/imgs/books/";
+const BASE_URL = "/assets/imgs/books/";
 const imgUrl = (name) => BASE_URL.concat(name).concat(".jpg");
 
 const data = [

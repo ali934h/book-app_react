@@ -3,6 +3,9 @@ export default {
   content: ["./src/**/*.{html,js,jsx}", "./index.html"],
   theme: {
     extend: {
+      fontFamily: {
+        BricolageGrotesque: ["BricolageGrotesque"],
+      },
       colors: {
         th1: "#352F44",
         th2: "#5C5470",
